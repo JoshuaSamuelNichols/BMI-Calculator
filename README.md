@@ -61,4 +61,4 @@ The BMI calculator provides an estimation based on the standard BMI formula. It 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Nichols-Tech/BMI-Calculator.git
+   git clone https://github.com/JoshuaSamuelNichols/BMI-Calculator.git
